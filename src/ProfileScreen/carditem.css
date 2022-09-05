@@ -1,0 +1,49 @@
+.card-field {
+  background-color: #2f2a3d;
+  height: fit-content;
+  width: 30%;
+  padding: 2%;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #454545;
+  border-width: 2px 2px 12px 2px;
+}
+.font-color-white {
+  color: white;
+}
+.b-color-gold {
+  color: gold;
+  border: 1px solid gold;
+  background-color: #2f2a3d;
+}
+.P-2 {
+  padding: 2%;
+}
+.width-100 {
+  width: 100%;
+}
+.width-35 {
+  width: 35%;
+}
+.bar-height-width {
+  width: 3px;
+  height: 6px;
+}
+.m-top-bottom {
+  margin: 5% 0;
+}
+.font-weight-1000 {
+  font-weight: 1000;
+}
+.font-bold {
+  font-weight: bold;
+}
+.m-left-1 {
+  margin-left: 1%;
+}
+.position-relative {
+  position: relative;
+}
+.position-absolute {
+  position: absolute;
+}
